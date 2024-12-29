@@ -1,4 +1,4 @@
-[![Yuu Icon](bg3.png)](https://github.com/yuuashura/icon-pack/s)
+[![Yuu Icon](bg3.png)](https:// github.com/yuuashura/icon-pack/s)
 
 <br>
 <br>
